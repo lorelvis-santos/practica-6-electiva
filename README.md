@@ -1,3 +1,5 @@
+Lorelvis Santos 20251020
+
 # Práctica: servidor web Nginx con Docker Compose
 
 El directorio `src` se monta en el contenedor como contenido web de Nginx.
@@ -15,3 +17,4 @@ Para detener el contenedor:
 ```sh
 docker compose down
 ```
+
